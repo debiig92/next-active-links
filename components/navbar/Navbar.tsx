@@ -20,7 +20,7 @@ export const Navbar = () => {
 
       <Link href={'/'} className='flex items-center'>
         <HomeIcon className='mr-2' />
-        <span>Home</span>
+        <span>Home2</span>
       </Link>
 
       <div className="flex flex-1"></div>
